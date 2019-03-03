@@ -1,0 +1,10 @@
+@font-face {
+		font-family: 'Forelle';
+		src: url('fonts/forelle.eot');
+		src: url('fonts/forelled41d.eot?#iefix') format('embedded-opentype'),
+				 url('fonts/forelle.woff') format('woff'),
+				 url('fonts/forelle.ttf') format('truetype'),
+				 url('fonts/forelle.svg#forelle') format('svg');
+		font-weight: normal;
+		font-style: normal;
+}
